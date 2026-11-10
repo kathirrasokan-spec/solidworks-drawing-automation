@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Signing keys and certificates
+*.snk
+*.pfx
+*.p12
+
+# Build and diagnostic output
+*.log
+*.pdb
+*.cache
+
+# Local SOLIDWORKS documents and templates
+*.sldprt
+*.sldasm
+*.slddrw
+*.drwdot
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
